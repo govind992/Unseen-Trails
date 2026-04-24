@@ -644,7 +644,7 @@ $destinations = [
 
 <!-- Google Maps JavaScript API -->
 <script
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyKfKdofsdxLUdB-3YyRSkGFI4EoziytI&callback=initGoogleMap"
+  src="https://maps.googleapis.com/maps/api/js?key="Your API key here"&callback=initGoogleMap"
   async defer>
 </script>
 <script src="js/script.js"></script>
